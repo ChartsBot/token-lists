@@ -1,0 +1,18 @@
+{
+  "name": "ChartsBot",
+  "logoURI": "https://www.thefomobot.com/uploads/1/3/4/8/134855694/editor/screenshot-from-2020-11-16-23-33-37.png?1605576548",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2021-10-19T04:47:11.812+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xd8c1232fcd219286e341271385bd70601503b3d7",
+      "name": "Dogira",
+      "symbol": "DOGIRA",
+      "decimals": 9,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
+    }
+  ]
+}
