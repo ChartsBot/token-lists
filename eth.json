@@ -13,6 +13,14 @@
       "symbol": "DOGIRA",
       "decimals": 9,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
+    },
+    {
+      "chainId": 1,
+      "address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+      "name": "Kleros",
+      "symbol": "PNK",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
     }
   ]
 }
