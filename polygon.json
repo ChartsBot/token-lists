@@ -13,6 +13,15 @@
       "symbol": "DOGIRA",
       "decimals": 9,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
+      "name": "Polygon Ecosystem Index",
+      "symbol": "PECO",
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
+    },
+    
   ]
 }
