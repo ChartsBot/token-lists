@@ -21,6 +21,14 @@
       "symbol": "PECO",
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+      "name": "Gains Network",
+      "symbol": "GNS",
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/d/df/Doge_homemade_meme.jpg"
     }
     
   ]
