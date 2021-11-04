@@ -21,6 +21,14 @@
       "symbol": "PNK",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/3833/small/kleros.png?1547975322"
+    },
+    {
+      "chainId": 1,
+      "address": "0xc0ba369c8db6eb3924965e5c4fd0b4c1b91e305f",
+      "name": "DLP Duck Token",
+      "symbol": "DUCK",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/duckdao-dlp_32.png?v=2"
     }
   ]
 }
