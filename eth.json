@@ -29,6 +29,14 @@
       "symbol": "DUCK",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/duckdao-dlp_32.png?v=2"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "name": "CRO",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/cro_32.png"
     }
   ]
 }
