@@ -37,6 +37,14 @@
       "symbol": "CRO",
       "decimals": 8,
       "logoURI": "https://etherscan.io/token/images/cro_32.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+      "name": "Ethereum Name Service",
+      "symbol": "ENS",
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/cro_32.png"
     }
   ]
 }
